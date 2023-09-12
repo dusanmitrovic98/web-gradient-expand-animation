@@ -13,3 +13,4 @@ body, html {
     height: 100%;
     background: radial-gradient(circle, #ff0084, transparent);
     animation: expand 5s linear infinite;
+    transform: scale(0);
