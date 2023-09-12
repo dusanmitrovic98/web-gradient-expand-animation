@@ -19,3 +19,4 @@ body, html {
 
 @keyframes expand {
     0% {
+        transform: scale(0);
